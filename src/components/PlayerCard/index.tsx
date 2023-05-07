@@ -1,4 +1,5 @@
-import { ButtonIcon } from "@components/ButtonIcon";
+
+import { ButtonIcon } from "@components/ButtonIcons";
 import { Container, Icon, Name } from "./styles";
 
 type PlayerCardProps = {
